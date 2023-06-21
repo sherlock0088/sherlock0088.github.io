@@ -1,6 +1,6 @@
 
 # 📖 Educations
-- *2018.05 - 2022.12*, PhD in Epigenetics, NIBIO/Universitetet i Oslo, Aas, Norway.
+- *2018.05 - 2022.12*, PhD in Epigenetics, NIBIO/Universitetet i Oslo, Aas/Oslo, Norway.
 - *2013.09 - 2016.06*, MSc in genetics, IGA, UCAS, Beijng/Harbin, China.
 - *2009.09 - 2013.06*, Bachlor in Bioengineering, Huazhong Agricultural University, Wuhan, China.
 
